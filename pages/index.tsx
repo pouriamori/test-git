@@ -9,7 +9,7 @@ const Home = () => {
           <div className="row text-center lh-lg">
             <div className="col-md-12">
               <h1 className='pb-4'>
-                سلام
+                سلا
               </h1>
               <h1 className='text-secondary'>
                 این یک تست گیتهاب است
