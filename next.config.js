@@ -5,6 +5,6 @@ const nextConfig = {
 
 module.exports = nextConfig
 
-module.exports = {
-  distDir: 'build',
-}
+// module.exports = {
+//   distDir: 'build',
+// }
